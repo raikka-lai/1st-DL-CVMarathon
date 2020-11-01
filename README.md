@@ -1,5 +1,4 @@
 # 1st-DL-CVMarathon
----
 
 ## Day 001 - introduction to OpenCV & read/show image
 * Read image: [cv2.imread( filename[, flags] )](https://docs.opencv.org/4.4.0/d4/da8/group__imgcodecs.html#ga288b8b3da0892bd651fce07b3bbd3a56)
